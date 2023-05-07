@@ -13,3 +13,5 @@
 - 2023.05.03
   - #3.08 Service 구현 수강 완료
   - [MapStruct](https://mapstruct.org)에 대해 알게 되었음 
+- 2023.05.07
+  - Part3.Ch04.09. Order Domain 개발 학습 완료
