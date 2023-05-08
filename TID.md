@@ -15,3 +15,5 @@
   - [MapStruct](https://mapstruct.org)에 대해 알게 되었음 
 - 2023.05.07
   - Part3.Ch04.09. Order Domain 개발 학습 완료
+- 2023.05.08
+  - Part4.01. Flow 설계 및 검토 학습 완료
